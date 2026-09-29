@@ -1,0 +1,21 @@
+# Dataset (download separately, see README)
+Dataset/
+*.csv
+*.jpg
+*.jpeg
+*.png
+
+# Training outputs and weights
+outputs_*/
+checkpoints*/
+*.h5
+*.ckpt*
+*.pt
+checkpoint
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

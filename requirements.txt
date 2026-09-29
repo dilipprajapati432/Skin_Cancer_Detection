@@ -1,0 +1,7 @@
+# See README section 1 for GPU installation (TF 2.10 on native Windows, or WSL2).
+tensorflow>=2.10
+pandas
+numpy
+scikit-learn
+matplotlib
+notebook
